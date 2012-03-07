@@ -34,7 +34,7 @@ PRODUCT_COPY_FILES += \
     packages/wallpapers/LivePicker/android.software.live_wallpaper.xml:/system/etc/permissions/android.software.live_wallpaper.xml
 
 PRODUCT_COPY_FILES += \
-    vendor/hp/tenderlion/proprietary/video/mm-video-driver-test:system/bin/mm-video-driver-test\
+    vendor/hp/tenderloin/proprietary/video/mm-video-driver-test:system/bin/mm-video-driver-test\
     vendor/hp/tenderloin/proprietary/video/mm-vdec-omx-test:system/bin/mm-vdec-omx-test \
     vendor/hp/tenderloin/proprietary/video/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
     vendor/hp/tenderloin/proprietary/lib/libqmiservices.so:system/lib/libqmiservices.so \
